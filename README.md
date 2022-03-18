@@ -12,4 +12,4 @@ GameFeatUnitySDKには、GameFeatSDKが、読み込まれているために、�
 
 >https://www.gamefeat.net/
 
-一応、表示までは、出来たので、ベースにご利用下さい。
+一応、表示までは、出来たので、ベースにご利用下さい。（Unity 2020.3.30f1を、利用・・・）
