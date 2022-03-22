@@ -1,13 +1,13 @@
 # Unity_GameFeat_Demo
 
-## Q「Unityで、GameFeatSDKを使うコツは・・・」
+## Q「Unityで、GameFeatSDKを使うコツは？・・・」
 
 Unityで、GameFeatSDKを、機能させるためには、Manifestの設定が、必要です。
 しかし、公式のアセットに付属しているManifestは、古く、最新のユニティに対応していないため、
 一度、空のプロジェクトを作り、Android用にビルドし、そのapkから、Manifestを取り出し、移植することで、
 エラーを回避する必要がありました、このManifestの修整は、アップデートされる度に必要だと思えます。
 
-## Q「GameFeatUnitySDKは、単独で、使用可能か・・・」
+## Q「GameFeatUnitySDKは、単独で、使用可能か？・・・」
 
 GameFeatUnitySDKには、GameFeatSDKが、読み込まれているために、相互にjarファイルが、必要です。
 実際に、アプリ登録し、idを入れ、ストア公開すると、白の枠に、相互相客などの広告、表示されるものと思われます。
